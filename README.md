@@ -16,29 +16,22 @@ I am an Informatics Engineering student atPoliteknik Harapan Bersama  who has a 
 </samp>
 </p>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!--<p align="center">-->
-  <!--<a href="https://github.com/DenverCoder1/github-readme-streak-stats">-->
-  <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iamfariz" src="https://github-readme-streak-stats.herokuapp.com/?user=iamfariz&" alt="iamfariz"/>-->
-  <!--</a>-->
-<!--  <p align="center"> If you can dream it, you can do it🔥 </p>-->
-<!--</p>-->
 
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Golang%20-%232370ED.svg?logo=GO&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2343853D.svg?logo=darts&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Ajava&type=repositories"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Ago&type=repositories"><img alt="C" src="https://img.shields.io/badge/Golang%20-%232370ED.svg?logo=GO&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Acpp&type=repositories"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Adart&type=repositories"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2343853D.svg?logo=darts&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiamfariz+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
